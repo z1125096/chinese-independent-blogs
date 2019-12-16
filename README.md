@@ -89,6 +89,7 @@
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://codesky.me/feed/)                                | CodeSky                   | https://codesky.me                | 编程; 前端; 后端; 运维; 折腾                    |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](http://webview.tech/category/original/feed/)             | WEB VIEW                  | https://webview.tech/             | 泛科技; 思考; 播客                           |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://greatdk.com/feed)                                | 王登科-DK博客                  | https://greatdk.com               | 编程; 创业                                |
+| [![](https://badgen.net/badge/icon/**?icon=rss&label)](http://jartto.wang/atom.xml)                             | Jartto's Blog             | http://jartto.wang/               | 前端; 架构; 人工智能                          |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://www.kymjs.com/feed.xml)                          | 开源实验室                     | https://kymjs.com                 | 编程                                    |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://zhaliezhi.com/feed.xml)                          | 炸裂志                       | https://zhaliezhi.com             | 单车; 旅行; 摄影                            |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://www.zmrenwu.com/all/rss/)                        | 追梦人物的博客                   | https://www.zmrenwu.com           | 编程                                    |
@@ -285,6 +286,7 @@
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://inote.xyz/rss)                                    | iNote                     | https://inote.xyz                 | 创业; 投资; 随笔                            |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](http://blog.grayson.org.cn/feed.xml)                      | Grayson's blog            | http://blog.grayson.org.cn/       | 编程; Ruby; 全栈; 笔记; 后端; 前端; Linux       |
 | [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://jw12138.com/atom.xml)                             | 一个球                       | https://jw12138.com               | 前端; 生活; 技术; 音乐                        |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://wangxin.io/atom.xml)                              | 王欣的博客                     | https://wangxin.io/               | 后端; 开源; RPC; 微服务                      |
 |                                                                                                                 | IPhysResearch             | https://iphysresearch.github.io   | 编程; 科研; 物理; 开源                        |
 |                                                                                                                 | 刘悦的技术博客                   | https://v3u.cn                    | 编程; python; ruby; 前端                  |
 |                                                                                                                 | Drcus &#124; 潜默           | https://yazhen.me                 | Gatsby; 随笔                            |
